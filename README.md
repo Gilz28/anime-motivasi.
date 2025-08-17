@@ -3,4 +3,4 @@
 Video motivasi anime (durasi ±30 detik) untuk konten YouTube/TikTok.
 
 🔗 Akses via GitHub Pages setelah diupload:
-
+https://Gilz28.github.io/anime-motivasi/
